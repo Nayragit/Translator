@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  width: 25%;
+  margin: 10% auto;
+}
+div{
+ padding : 10px;
+}
+  select{
+    padding :5px;
+  }
+  body{
+    background-color: rgb(26, 25, 25);
+    padding: 400px auto;
+    color: white;
+  }
+  button:hover{
+    background-color: blueviolet;
+    color: rgb(11, 10, 11);
+  }
+  button{
+    background-color: antiquewhite;
+  }
+  textarea{
+    background-color: aquamarine;
+    width: 100%;
+  }
+
+  select{
+    background-color: antiquewhite;
+    width: 40%;
+    
+  }
+.selectLanguageContainer{
+  display: flex;
+  justify-content: space-between;
+}
+
+
